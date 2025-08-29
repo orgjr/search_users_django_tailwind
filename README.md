@@ -25,5 +25,5 @@ http://127.0.0.1:8000
 Admin Panel
 http://127.0.0.1:8000/admin
 
-User: adm
+User: adm  
 Password: 123
